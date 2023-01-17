@@ -5,3 +5,4 @@ Intro Git Demo
  - `git add <FILE>`: add the <FILE>s to the staging area
  - `git commit`: create the commit(aka snapshot)
  
+hello world
