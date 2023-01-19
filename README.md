@@ -10,5 +10,4 @@ Intro Git Demo
     - e.g., `git push origin main`
     - `git push origin main`: sends code from branch `main` local computer to the remote `origin`
  - `git pull <where> <what>`: take local commits on `<what>`, and pull from `<where>`
-    - e.g., `git pull origin main`    
- 
+    - e.g., `git pull origin main`
